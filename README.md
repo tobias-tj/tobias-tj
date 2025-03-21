@@ -55,5 +55,3 @@ A los **13 años**, inicié mi camino en el desarrollo web creando una página c
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tobias-jara-65956a21a)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobias-tj)
-
-¡Gracias por visitar mi perfil! 🚀
