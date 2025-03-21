@@ -16,8 +16,6 @@ A los **13 años**, inicié mi camino en el desarrollo web creando una página c
 - **SQL y Bases de Datos Relacionales**
 - **Desarrollo móvil con React Native y Flutter**
 
-Siempre estoy en búsqueda de nuevos retos y oportunidades para mejorar mis habilidades. 💡
-
 ---
 
 ## 🛠️ Tecnologías y Lenguajes
@@ -28,6 +26,7 @@ Siempre estoy en búsqueda de nuevos retos y oportunidades para mejorar mis habi
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230081CB.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔹 Frontend
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -49,10 +48,12 @@ Siempre estoy en búsqueda de nuevos retos y oportunidades para mejorar mis habi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-tj&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tobias-tj&theme=radical&hide_border=true)
+
 ---
 
 ## 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-jara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tobias-jara-65956a21a)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobias-tj)
 
 ¡Gracias por visitar mi perfil! 🚀
